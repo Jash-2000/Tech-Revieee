@@ -6,6 +6,7 @@ I am proud to be a part of the team as the **__Chief Deisgner and Content Planne
 ![Editorial Page](https://github.com/Jash-2000/Tech-Revieee-2020/blob/master/Final%20Design/Page_1.jpg)
 
 ---
-To - Do :
-  * Make a simple web-page to display the entire magaizine
-  * Add additional resources
+
+# Tech-Review-2018
+
+This was our first edition of the Tech-Revieww and I was honoured to be part of the content creation team. My article on Blockchain and its prospective use in Healthcare was choosen to be added as the 2nd article in the magazine. 
